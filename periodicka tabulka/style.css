@@ -1,0 +1,76 @@
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 2cm;
+    width: 2cm;
+    text-align: center;
+ }
+.invis{
+    border: 0px;
+}
+table{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+  }
+.green{
+    background-color: greenyellow;
+}
+.blue{
+    background-color: rgb(0, 110, 255);
+}
+.violet{
+    background-color: rgb(223, 194, 252);
+}
+.orange{
+    background-color: rgb(250, 172, 27);
+}
+.cyan{
+    background-color: rgb(149, 209, 243);
+}
+.red{
+    background-color: rgb(255, 87, 87);
+}
+.bblue{
+    background-color: rgb(161, 242, 248);
+}
+.yellow{
+    background-color: yellow;
+}
+.al{
+    background-color: rgb(255, 87, 87);
+    border: 0px;
+}
+.kal{
+    background-color: rgb(250, 172, 27);
+    border: 0px;
+}
+.pk{
+    background-color: rgb(223, 194, 252);
+    border: 0px;
+}
+.kovy{
+    background-color: rgb(149, 209, 243);
+    border: 0px;
+}
+.polokovy{
+    background-color: rgb(161, 242, 248);
+    border: 0px;
+}
+.nekovy{
+    background-color: greenyellow;
+    border: 0px;
+}
+.halogeny{
+    background-color: rgb(0, 110, 255);
+    border: 0px;
+}
+.plyny{
+    background-color: yellow;
+    border: 0px;
+}
+.width{
+    border: 0px;
+    width:4cm ;
+    height:2cm ;
+}
