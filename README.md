@@ -1,1 +1,1 @@
-# Tabulka.Novak
+# Table.Novak
